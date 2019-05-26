@@ -92,3 +92,4 @@ Checkboxes
 &check;
 [ ]
 [x]
+<input type="checkbox" checked>
