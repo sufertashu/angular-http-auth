@@ -89,7 +89,5 @@ Other stuff
 ===
 Checkboxes
 ---
-&check;
-- [ ]
-- [x]
-<input type="checkbox" checked>
+ [ ]
+ [x]
