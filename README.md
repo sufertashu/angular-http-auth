@@ -90,6 +90,6 @@ Other stuff
 Checkboxes
 ---
 &check;
-[ ]
-[x]
+* [ ]
+* [x]
 <input type="checkbox" checked>
