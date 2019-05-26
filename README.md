@@ -89,5 +89,6 @@ Other stuff
 ===
 Checkboxes
 ---
+&check;
 [ ]
 [x]
