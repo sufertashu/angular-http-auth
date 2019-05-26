@@ -85,3 +85,7 @@ The `loginConfirmed` method supports the injection of an Updater function that w
 
 The initial failed request will now be retried, all queued http requests will be recalculated using the Updater-Function.
 
+##Other stuff
+###Checkboxes
+[ ]
+[x]
